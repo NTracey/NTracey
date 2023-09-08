@@ -2,7 +2,7 @@
 
 <p align='center'>
     <a href="https://www.linkedin.com/in/tracey-ngo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  <a href="mailto:traceyngo8@gmail.com?subject=Olá%20Stefany">
+  <a href="mailto:traceyngo8@gmail.com">
   <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </p>
