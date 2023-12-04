@@ -1,5 +1,4 @@
 <h1 align='center'> Hello, I'm Tracey! 👋</h1>
-
 <p align='center'>
   <a href="https://www.linkedin.com/in/tracey-ngo"  target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -11,10 +10,13 @@
 
 <hr>
 
-### Hi there! 👋
+### Hi there! ✨
 
-I'm Tracey, a passionate software developer with a love for building innovative web applications. My skills and tools include:
+I'm Tracey, a passionate software developer with a love for building innovative web applications. 
 
+<br>
+
+<h2 align='center'>Languages and Tools:</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge" alt="React" />
@@ -30,5 +32,12 @@ I'm Tracey, a passionate software developer with a love for building innovative 
   <img src="https://img.shields.io/badge/wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
 </div>
 <br>
+
+<h2 align='center'>Projects:</h2>
+
+[![Ecommerce Petstore](https://github-readme-stats.vercel.app/api/pin/?username=NTracey&repo=ecommerce-petstore-shopping-cart&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/NTracey/ecommerce-petstore-shopping-cart)
+
+<br>
+
 Feel free to explore my projects and connect with me! 🚀
 
